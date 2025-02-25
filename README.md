@@ -1,4 +1,4 @@
-# Connect 4 Game & Artificial Intelligence
+# Terminal Connect 4 Game & Rule-Based AI
 
 This project features a terminal-based Connect 4 game with an artificial intelligence (AI) opponent that provides an entertaining and challenging experience for players of all skill levels.
 
@@ -12,7 +12,7 @@ Connect 4 is a classic board game where two players take turns dropping colored 
 - **Simple Controls:** The game interface is intuitive, allowing players to easily input their moves and interact with the game.
 - **AI Opponent:** Test your skills against an AI opponent programmed to make strategic moves based on the current game state.
 - **Win Detection:** The game automatically detects when a player achieves victory by connecting four discs in a row, column, or diagonal.
-- **Restart Option:** After a game concludes, players have the option to restart and play again, ensuring continuous entertainment.
+- **Restart Option:** After a game concludes, players have the option to restart and play again.
 
 ## How to Run
 
